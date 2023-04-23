@@ -67,13 +67,46 @@ void newGame(Node **head) {
 void continueGame(Node *head) {
     Node *current = head;
     int score = 0;
+    char playerName[100];
+
+    printf("Introduceti numele jucatorului: ");
+    scanf("%99s", playerName);
+
     while (current != NULL) {
         printQuestion(current);
         score += current->points;
         current = current->next;
     }
+
     printf("Final score: %d\n", score);
+
+    FILE *file = fopen("clasament.txt", "a");
+    if (file == NULL) {
+        printf("Failed to open file.\n");
+        return;
+    }
+
+    fprintf(file, "%s: %d\n", playerName, score);
+    fclose(file);
 }
+
+void displayScoreboard() {
+
+    FILE *file = fopen("clasament.txt", "r");
+    if (file == NULL) {
+        printf("Failed to open file.\n");
+        return;
+    }
+
+    printf("SCOREBOARD\n");
+    char line[100];
+    while (fgets(line, sizeof(line), file)) {
+        printf("%s", line);
+    }
+
+    fclose(file);
+}
+
 
 int main() {
     Node *head = NULL;
@@ -100,13 +133,22 @@ int main() {
                 continueGame(head);
                 break;
             case 3:
-                printf("Exiting program.\n");
+
+                system("cls");
+                displayScoreboard();
                 break;
+            case 4:
+                {
+
+                printf("Exiting program.\n");
+                exit(0);
+                break;
+                }
             default:
                 printf("Invalid choice.\n");
         }
 
-    } while (choice != 3);
+    } while (choice != 4);
 
     return 0;
 }
