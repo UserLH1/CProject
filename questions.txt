@@ -1,5 +1,48 @@
-What is the capital of France?;Paris;Lyon
-What is 2 + 2?;4;22
-What color is the sky?;Blue;Green
-Who wrote 'Hamlet'?;Shakespeare;Tolkien
-How many continents are there?;7;5
+Care este capitala Frantei?;Paris;Roma;Paris
+Care este moneda Japoniei?;Yen;Dolar;Yen
+Care este numarul atomic al carbonului?;6;8;6
+Cate zile are un an bisect?;366;365;366
+Cati ani a durat Razboiul de 100 de ani?;116;100;116
+Unde se afla Piramida lui Kheops?;Egipt;Grecia;Egipt
+Care este numele celui mai mare desert din lume?;Sahara;Gobi;Sahara
+Cate tari exista in lume?;195;215;195
+Ce substanta este folosita pentru a stinge focul?;Apa;Azot;Apa
+Care este cel mai mare ocean al lumii?;Pacific;Atlantic;Pacific
+Cate continente exista pe Pamant?;7;5;7
+Care este numele celor doi copii ai Printului William si al Ducesei de Cambridge?;Charlotte si George;William si Kate;Charlotte si George
+Care este cel mai lung fluviu din lume?;Nilul;Amazonul;Amazonul
+Cate continente exista pe Pamant?;7;5;7
+Care este cel mai mare animal terestru?;Elefantul african;Girafa;Elefantul african
+Care este cel mai mic stat din lume dupa suprafata teritoriala?;Vaticanul;Monaco;Vaticanul
+Care este capitala Mexicului?;Ciudad de Mexico;Tijuana;Ciudad de Mexico
+Cine a scris piesa de teatru "Hamlet"?;William Shakespeare;Oscar Wilde;William Shakespeare
+Care este numele celui mai mare desert din lume?;Sahara;Gobi;Sahara
+Care este cel mai mare munte din lume?;Everest;Kilimanjaro;Everest
+Ce culoare are trandafirul rosu?;Rosu;Galben;Rosu
+Care este numarul atomic al carbonului?;6;12;6
+Care este cel mai inalt turn din lume?;Burj Khalifa;Eiffel;Burj Khalifa
+Care este al doilea cel mai mare ocean al lumii?;Oceanul Atlantic;Oceanul Indian;Oceanul Indian
+Care este capitala Suediei?;Stockholm;Copenhaga;Stockholm
+Cine a pictat "Cina cea de Taina"?;Leonardo da Vinci;Vincent van Gogh;Leonardo da Vinci
+Ce limba se vorbeste in Brazilia?;Portugheza;Spaniola;Portugheza
+Ce oras este cunoscut drept "Orasul celor 7 coline"?;Roma;Lisabona;Lisabona
+Care este cel mai mare lac din lume dupa suprafata?;Marea Caspica;Lacul Superior;Marea Caspica
+Cine a scris cartea "Razboi si pace"?;Lev Tolstoi;Fiodor Dostoievski;Lev Tolstoi
+Care este cel mai mare lac din lume dupa volumul apei?;Lacul Baikal;Marea Caspica;Lacul Baikal
+Unde se afla Muntele Rushmore?;Statele Unite ale Americii;Canada;Statele Unite ale Americii
+Ce tara are forma unei cizme?;Italia;Spania;Italia
+Cine a scris "Crima si pedeapsa"?;Fiodor Dostoievski;Lev Tolstoi;Fiodor Dostoievski
+Care este cel mai mic ocean al lumii?;Oceanul Arctic;Oceanul Indian;Oceanul Arctic
+Ce culoare are sangele unei rame?;Albastru;Rosu;Albastru
+Care este cel mai mic stat din lume dupa populatie?;Vaticanul;Tuvalu;Vaticanul
+Care este capitala Frantei?;Paris;Roma;Paris
+Care este moneda Japoniei?;Yen;Dolar;Yen
+Care este numarul atomic al carbonului?;6;8;6
+Cate zile are un an bisect?;366;365;366
+Cati ani a durat Razboiul de 100 de ani?;116;100;116
+Unde se afla Piramida lui Kheops?;Egipt;Grecia;Egipt
+Care este numele celui mai mare desert din lume?;Sahara;Gobi;Sahara
+Cate tari exista in lume?;195;215;195
+Ce substanta este folosita pentru a stinge focul?;Apa;Azot;Apa
+Care este cel mai mare ocean al lumii?;Pacific;Atlantic;Pacific
+Cate continente exista pe Pamant?;7;5;7
