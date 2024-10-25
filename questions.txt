@@ -1,0 +1,5 @@
+What is the capital of France?;Paris;Lyon
+What is 2 + 2?;4;22
+What color is the sky?;Blue;Green
+Who wrote 'Hamlet'?;Shakespeare;Tolkien
+How many continents are there?;7;5
